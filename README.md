@@ -15,3 +15,9 @@
 3. git branch -M main (para cambiarla rama a main si no la tenemos por defecto)
 4. git remote link del repo
 5. git push -u origin main 
+
+## Una vez ya subido a Github
+
+1. git add .
+2. git commit -m "Mensaje"
+3. git push
